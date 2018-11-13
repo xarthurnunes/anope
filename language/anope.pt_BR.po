@@ -19,8 +19,8 @@ msgstr ""
 
 #: modules/commands/os_forbid.cpp:312
 #, c-format
-msgid "%d canal(is) limpo(s) e %d canail(is) dropados."
-msgstr ""
+msgid "%d channel(s) cleared(s), and %d channel(s) dropped."
+msgstr "%d canal(is) limpos, e %d canal(is) dropado(s)."
 
 #: modules/commands/os_forbid.cpp:253
 #, fuzzy, c-format
